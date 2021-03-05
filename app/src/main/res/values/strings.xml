@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="name">Tamiles</string>
+    <string name="message_status">Estou com os miolos fritando</string>
+    <string name="title_updates">Recent updates</string>
+    <string name="data_message_call">Today, 11:01</string>
+    <string name="log_call">Clear call log</string>
+    <string name="settings">Settings</string>
+    <string name="search_btn">search</string>
+    <string name="teste_button">teste button</string>
+</resources>
